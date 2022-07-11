@@ -1,6 +1,6 @@
 <h1 align="center">    Hi, I’m Cyber King<a href="https://github.com/CyberKing4/CyberKing4"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"></a></h1>
 
-<p align="center"> <a href="https://github.com/CyberKing4/CyberKing4"><img align="center" src="https://cardivo.vercel.app/api?name=Cyber King&description=Hi,I am Cyber King.I am The Creater Of Shewon MD Bot.  Nice To Meet  you&image=https://avatars.githubusercontent.com/CyberKing4&usqp=CAU&backgroundColor=%23ecf0f1&github=CyberKing4&pattern=ticTacToe&colorPattern=%23eaeaea&site=shewon.ml"/></a>
+<p align="center"> <a href="https://github.com/CyberKing4/CyberKing4"><img align="center" src="https://cardivo.vercel.app/api?name=Cyber King&description=Hi,I am Cyber King.I am The Creater Of CyberKing MD Bot.  Nice To Meet  you&image=https://avatars.githubusercontent.com/CyberKing4&usqp=CAU&backgroundColor=%23ecf0f1&github=CyberKing4&pattern=ticTacToe&colorPattern=%23eaeaea&site=cyberbot"/></a>
 
   
   
@@ -13,7 +13,7 @@
 
 <p align="center">
   
-[![Youtube](https://img.shields.io/badge/Shewon%20%20YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/c/SLcartooninstudio)    
+[![Youtube](https://img.shields.io/badge/%20%20YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/c/SLcartooninstudio)    
   
 <div align="center">
 <h1> Visit My Official Web Site 📒 <h1>
